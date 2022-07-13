@@ -1,0 +1,75 @@
+
+class Humanbeing{
+	byte age;
+	char[] color
+	char[] name
+	boolean isMarried
+	
+	public walk(){
+		
+	}
+	public eat(){
+		
+	}
+	
+}
+OOPS
+Humanbeing chiru = new Humanbeing();
+chiru.age = 1254162437;
+chiru.color = black
+chiru.name Chiranjeevi GK
+
+Humanbeing prajwal = new Humanbeing();
+prajwal.age = 24
+prajwal.color = black
+prajwal.name = Prajwal K N
+prajwal.eat()
+
+
+Datatypes
+
+Basic Datatypes:
+int 4 bytes
+float 4 bytes
+double 8 bytes
+char 2 bytes
+boolean 1 bit
+byte 1 byte
+short 2 bytes
+long 8 bytes
+
+1
+
+8 bit= 1 byte
+
+0000 - 0
+0001
+0010
+0011
+
+1111 - 15 (16 char)
+
+
+1 11111111 11111111 11111111 11111111
+2^31 = 
+
+  _
+__ _
+
+
+
+
+8421
+
+Char
+
+ASCII - 8
+
+1-9 - dec
+
+1-9 A B C D E F - Hex Decimal
+16 bit
+
+32 
+
+64bit
